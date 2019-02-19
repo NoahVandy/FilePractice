@@ -51,7 +51,7 @@
             this.btn_showFile.Name = "btn_showFile";
             this.btn_showFile.Size = new System.Drawing.Size(348, 181);
             this.btn_showFile.TabIndex = 1;
-            this.btn_showFile.Text = "Show File";
+            this.btn_showFile.Text = "Pick File";
             this.btn_showFile.UseVisualStyleBackColor = true;
             this.btn_showFile.Click += new System.EventHandler(this.btn_showFile_Click);
             // 
